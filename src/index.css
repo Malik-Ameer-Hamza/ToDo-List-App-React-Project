@@ -116,7 +116,7 @@ ol li {
 
 @media (max-width: 768px) {
   *{
-    font-size: 20px;
+    font-size: 18px;
   }
   .center_div {
     width: 70%;
@@ -127,7 +127,7 @@ ol li {
     margin-left: 3px;
   }
   button{
-    font-size: 10px;
+    font-size: 9px;
   }
   input{
     text-align: center;
@@ -141,4 +141,9 @@ ol li {
     border-bottom: 2px solid #8566aa;
     outline: none;
   }
+  ol li{
+    font-size: 10px;
+    height: 18px;
+  }
+ 
 }
